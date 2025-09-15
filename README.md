@@ -21,7 +21,7 @@ JavaScript (jQuery) for interactivity and DOM manipulation
 🚀 Getting Started
 
 1- Clone this repository:
-git clone https://github.com/seuusuario/seurepositorio.git
+git clone https://github.com/nicolecristinaw/portfolio.git
 
 2- Open the index.html file in your browser
 Project structure:
